@@ -28,7 +28,7 @@ What does this repository demonstrate?
 In this repository you'll find two notebooks:
 
 * :code:`notebooks/interpretable-model.ipynb` - Shows how to train an interpretable model.
-* :code:`notebooks/explainers.ipynb` - Shows how to generate an explainer for a model.
+* :code:`notebooks/explain-blackbox.ipynb` - Shows how to generate an explainer for a model.
 
 Please check the description in the notebooks to get a better understanding of the 
 difference between interpretable models and explainers.
